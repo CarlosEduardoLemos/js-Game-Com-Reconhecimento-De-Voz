@@ -35,7 +35,7 @@ cd nome-do-repositorio
 
 5. Ao ser solicitado, dê permissão para que o jogo acesse o seu microfone. Isso é necessário para utilizar a funcionalidade de reconhecimento de voz.
 
-6. A máquina irá "pensar" em um número dentro do intervalo definido. Utilize comandos de voz para adivinhar o número. Você pode dizer um número específico ou fornecer dicas como "maior" ou "menor" para restringir o intervalo de possibilidades.
+6. A máquina irá "pensar" em um número dentro do intervalo de 0 até 1000. Utilize comandos de voz para adivinhar o número. Você pode dizer um número específico e nele irá fornecer dicas como "maior" ou "menor" para restringir o intervalo de possibilidades.
 
 7. Continue a fazer palpites até adivinhar corretamente o número escolhido pela máquina.
 
