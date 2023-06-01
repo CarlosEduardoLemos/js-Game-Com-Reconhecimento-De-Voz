@@ -81,6 +81,6 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE). Sinta-se à vontade
 
 ## Contato
 
-Se você tiver alguma dúvida ou sugestão relacionada a este projeto, sinta-se à vontade para entrar em contato comigo. Meu email é [seu-email@example.com](mailto:seu-email@example.com).
+Se você tiver alguma dúvida ou sugestão relacionada a este projeto, sinta-se à vontade para entrar em contato comigo. Meu email é [lemosecarlos@gmail.com](mailto:lemosecarlos@gmail.com).
 
 Divirta-se jogando!
