@@ -6,7 +6,7 @@ Este é o README para o projeto Jogo de Adivinhação de Número com Reconhecime
 | -------------  | --- |
 | :sparkles: Nome        | **Jogo de Adivinhação de Número**
 | :label: Tecnologias | JavaScript, HTML, CSS
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://carloseduardolemos.github.io/js-Game-Com-Reconhecimento-De-Voz/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://raw.githubusercontent.com/CarlosEduardoLemos/js-Game-Com-Reconhecimento-De-Voz/main/imagem/Captura%20de%20tela%202023-06-02%20143509.png#vitrinedev)
