@@ -1,86 +1,32 @@
-# Jogo de Adivinhação de Número
+# Jogo de Adivinhação de Número com Reconhecimento de Voz
 
-Este é um repositório que contém os arquivos necessários para um jogo web de adivinhação de número. O objetivo do jogo é adivinhar o número que a máquina "pensou" dentro de um intervalo definido.
+Este é o README para o projeto Jogo de Adivinhação de Número com Reconhecimento de Voz, um jogo interativo onde os jogadores tentam adivinhar um número escolhido aleatoriamente, utilizando o reconhecimento de voz como método de entrada.
 
-## Funcionalidades
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Jogo de Adivinhação de Número**
+| :label: Tecnologias | JavaScript, HTML, CSS
+| :rocket: URL         | https://url-deploy.com.br
 
-- Interface de usuário simples e intuitiva.
-- Reconhecimento de voz para entrada dos palpites.
-- Lógica implementada em JavaScript.
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://raw.githubusercontent.com/CarlosEduardoLemos/js-Game-Com-Reconhecimento-De-Voz/main/imagem/Captura%20de%20tela%202023-06-02%20143509.png#vitrinedev)
 
-## Pré-requisitos
+## Detalhes do projeto
 
-Antes de executar o jogo, certifique-se de que os seguintes requisitos estão atendidos:
+O projeto Jogo de Adivinhação de Número com Reconhecimento de Voz é uma aplicação interativa que desafia os jogadores a adivinharem um número escolhido aleatoriamente pelo computador. A principal característica deste jogo é o uso do reconhecimento de voz como método de entrada para as respostas dos jogadores.
 
-- Navegador web compatível com as funcionalidades do jogo.
-- Microfone funcional para o reconhecimento de voz.
+A aplicação foi desenvolvida utilizando JavaScript para a lógica do jogo, HTML para a estrutura do documento e CSS para estilização visual. O reconhecimento de voz é implementado utilizando a API de Reconhecimento de Fala do navegador, que permite que os jogadores façam suas suposições falando o número em voz alta.
 
-## Instruções de Uso
+Durante o desenvolvimento deste projeto, foram explorados conceitos de manipulação do DOM (Document Object Model), manipulação de eventos e integração com a API de Reconhecimento de Fala. O jogo possui uma interface intuitiva, onde os jogadores podem ver as instruções, digitar manualmente ou falar sua suposição e receber feedback imediato sobre o resultado.
 
-1. Clone este repositório em seu ambiente local:
+Os próximos passos para o projeto incluem a implementação de recursos adicionais, como níveis de dificuldade, contagem regressiva para adivinhar o número, efeitos sonoros e melhorias na interface do usuário. Além disso, é possível explorar outras funcionalidades da API de Reconhecimento de Fala, como comandos de voz para reiniciar o jogo ou obter dicas.
 
-```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-```
-
-2. Navegue até o diretório clonado:
-
-```bash
-cd nome-do-repositorio
-```
-
-3. Abra o arquivo `index.html` em seu navegador web.
-
-4. O jogo será carregado e você verá a interface do usuário. Siga as instruções apresentadas para iniciar o jogo.
-
-5. Ao ser solicitado, dê permissão para que o jogo acesse o seu microfone. Isso é necessário para utilizar a funcionalidade de reconhecimento de voz.
-
-6. A máquina irá "pensar" em um número dentro do intervalo de 0 até 1000. Utilize comandos de voz para adivinhar o número. Você pode dizer um número específico e nele irá fornecer dicas como "maior" ou "menor" para restringir o intervalo de possibilidades.
-
-7. Continue a fazer palpites até adivinhar corretamente o número escolhido pela máquina.
-
-## Tecnologias Utilizadas
-
-O jogo foi desenvolvido utilizando as seguintes tecnologias:
-
-- HTML5
-- CSS3
-- JavaScript
+Se você está procurando uma experiência de jogo interativa e divertida, experimente o projeto [aqui](https://github.com/CarlosEduardoLemos/js-Game-Com-Reconhecimento-De-Voz) e desafie-se a adivinhar o número usando sua voz!
 
 ## Contribuição
 
-Se você quiser contribuir para este projeto, siga as etapas abaixo:
-
-1. Faça um fork deste repositório.
-
-2. Crie uma branch para sua contribuição:
-
-```bash
-git checkout -b minha-contribuicao
-```
-
-3. Faça as alterações desejadas e faça commit das mesmas:
-
-```bash
-git commit -m "Minha contribuição"
-```
-
-4. Envie as alterações para o repositório remoto:
-
-```bash
-git push origin minha-contribuicao
-```
-
-5. Abra um pull request neste repositório, descrevendo suas alterações.
-
-Agradeço antecipadamente por suas contribuições!
+Se você deseja contribuir para este projeto, sinta-se à vontade para abrir uma issue no repositório ou enviar um pull request com suas sugestões e melhorias. Agradeço antecipadamente todas as contribuições e ideias para aprimorar ainda mais o Jogo de Adivinhação de Número com Reconhecimento de Voz.
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE). Sinta-se à vontade para utilizar, modificar e distribuir o código conforme necessário.
-
-## Contato
-
-Se você tiver alguma dúvida ou sugestão relacionada a este projeto, sinta-se à vontade para entrar em contato comigo. Meu email é [lemosecarlos@gmail.com](mailto:lemosecarlos@gmail.com).
-
-Divirta-se jogando!
+Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT). Sinta-se à vontade para utilizar o código e adaptá-lo às suas necessidades.
