@@ -1,6 +1,6 @@
 # Jogo de Adivinhação de Número com Reconhecimento de Voz
 
-Este é o README para o projeto Jogo de Adivinhação de Número com Reconhecimento de Voz, um jogo interativo onde os jogadores tentam adivinhar um número escolhido aleatoriamente, utilizando o reconhecimento de voz como método de entrada.
+O projeto Jogo de Adivinhação de Número com Reconhecimento de Voz, é um jogo interativo onde os jogadores tentam adivinhar um número escolhido aleatoriamente, utilizando o reconhecimento de voz como método de entrada.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
